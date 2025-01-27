@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MeuCurriculo/static/css/main.cfa27647.css",
+    "main.js": "/MeuCurriculo/static/js/main.7ff1f4dd.js",
+    "static/js/373.a5389b1a.chunk.js": "/MeuCurriculo/static/js/373.a5389b1a.chunk.js",
+    "index.html": "/MeuCurriculo/index.html",
+    "main.cfa27647.css.map": "/MeuCurriculo/static/css/main.cfa27647.css.map",
+    "main.7ff1f4dd.js.map": "/MeuCurriculo/static/js/main.7ff1f4dd.js.map",
+    "373.a5389b1a.chunk.js.map": "/MeuCurriculo/static/js/373.a5389b1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa27647.css",
+    "static/js/main.7ff1f4dd.js"
+  ]
+}
