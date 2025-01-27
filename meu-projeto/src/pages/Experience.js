@@ -2,8 +2,7 @@ import React from "react";
 
 const Experience = () => {
   const experiences = [
-    { title: "Desenvolvedor de Software", company: "Empresa X", period: "2022 - Presente" },
-    { title: "Estagiário em TI", company: "Empresa Y", period: "2020 - 2022" },
+    { title: "Assistente Administrativo", company: "Microblau Automação e Controles", period: "2022 - Presente" },
   ];
 
   return (
